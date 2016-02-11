@@ -2,9 +2,10 @@
 
 React stopwatch with gulp
 
-for running the project (go to "cmd")
+For install the project:
 
 1. npm install
 2. gulp
 
+To run the project:
 open index.html on browser
